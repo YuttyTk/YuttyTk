@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuttyTk
+- 👋 Hi, I’m Yutty!
 - 👀 I’m interested in 
 - 🌱 I’m currently learning HTML | CSS | JavaScript
 - 💞️ I’m looking to collaborate with people who are also learning to develop systems
