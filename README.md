@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yutty!
-- 👀 I’m interested in software development
+- 👀 I’m interested in creative projects
 - 🌱 I’m currently learning HTML | CSS | JavaScript
+- 🏫 Systems Analysis and Development student at SENAI "Morvan Figueiredo" school
 - 💞️ I’m looking to collaborate with people who are also learning to develop systems
 
 <!---
